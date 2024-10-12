@@ -30,7 +30,7 @@
             Console.WriteLine($"Name: {Name}\nSurname: {Surname}\nGroup: {Group}\nPoint: {Point}\nGraduated: {IsGraduated}");
         }
 
-        public void CheckGraduatiob()
+        public void CheckGraduation()
         {
             if (IsGraduated == false)
             {
