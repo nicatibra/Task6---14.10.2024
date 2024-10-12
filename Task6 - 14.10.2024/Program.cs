@@ -19,11 +19,11 @@
             //Console.Write("Enter student's point (0-100): ");
             //int point = int.Parse(Console.ReadLine());
 
-            //Student student1 = new Student(name, surname, group, point); 
+            //Student student1 = new Student(name, surname, group, point);
             #endregion
 
             student1.GetInfo();
-            student1.CheckGraduatiob();
+            student1.CheckGraduation();
             student1.GetDiplomDegree();
         }
     }

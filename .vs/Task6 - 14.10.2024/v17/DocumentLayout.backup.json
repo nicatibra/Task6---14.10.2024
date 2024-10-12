@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task6 - 14.10.2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F99111F3-973D-4359-97DF-14F560D26055}|Task6 - 14.10.2024\\Task6 - 14.10.2024.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task6 - 14.10.2024\\task6 - 14.10.2024\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F99111F3-973D-4359-97DF-14F560D26055}|Task6 - 14.10.2024\\Task6 - 14.10.2024.csproj|solutionrelative:task6 - 14.10.2024\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F99111F3-973D-4359-97DF-14F560D26055}|Task6 - 14.10.2024\\Task6 - 14.10.2024.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task6 - 14.10.2024\\task6 - 14.10.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F99111F3-973D-4359-97DF-14F560D26055}|Task6 - 14.10.2024\\Task6 - 14.10.2024.csproj|solutionrelative:task6 - 14.10.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99111F3-973D-4359-97DF-14F560D26055}|Task6 - 14.10.2024\\Task6 - 14.10.2024.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task6 - 14.10.2024\\task6 - 14.10.2024\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99111F3-973D-4359-97DF-14F560D26055}|Task6 - 14.10.2024\\Task6 - 14.10.2024.csproj|solutionrelative:task6 - 14.10.2024\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task6 - 14.10.2024\\Task6 - 14.10.2024\\Program.cs",
               "RelativeDocumentMoniker": "Task6 - 14.10.2024\\Program.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task6 - 14.10.2024\\Task6 - 14.10.2024\\Program.cs",
-              "RelativeToolTip": "Task6 - 14.10.2024\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task6 - 14.10.2024\\Task6 - 14.10.2024\\Program.cs*",
+              "RelativeToolTip": "Task6 - 14.10.2024\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T11:38:47.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task6 - 14.10.2024\\Task6 - 14.10.2024\\Student.cs",
               "RelativeDocumentMoniker": "Task6 - 14.10.2024\\Student.cs",
               "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task6 - 14.10.2024\\Task6 - 14.10.2024\\Student.cs",
               "RelativeToolTip": "Task6 - 14.10.2024\\Student.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA5wDQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T12:53:06.704Z",
               "EditorCaption": ""
