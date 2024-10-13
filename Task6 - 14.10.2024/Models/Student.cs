@@ -1,6 +1,6 @@
-﻿namespace Task6___14._10._2024
+﻿namespace Task6___14._10._2024.Models
 {
-    internal class Student
+    class Student
     {
         public string Name;
         public string Surname;

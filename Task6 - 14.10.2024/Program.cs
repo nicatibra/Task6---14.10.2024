@@ -1,10 +1,12 @@
 ﻿namespace Task6___14._10._2024
 {
-    internal class Program
+    using Task6___14._10._2024.Models;
+
+    class Program
     {
         static void Main(string[] args)
         {
-            Student student1 = new Student("Nicat", "Ibrahimli", "BP217", 91);
+            Student student1 = new Student("Nicat", "Ibrahimli", "BP217", 100);
 
             #region UserInputedVersion
             //Console.Write("Enter student's name: ");
